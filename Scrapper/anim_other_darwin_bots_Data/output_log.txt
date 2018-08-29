@@ -1,0 +1,219 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x156)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.4885
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\tswal\Documents\ScrapperProject\ScrapperProject\Scrapper\anim_other_darwin_bots_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\tswal\Documents\ScrapperProject\ScrapperProject\Scrapper\anim_other_darwin_bots_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\tswal\Documents\ScrapperProject\ScrapperProject\Scrapper\anim_other_darwin_bots_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\tswal\Documents\ScrapperProject\ScrapperProject\Scrapper\anim_other_darwin_bots_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\tswal\Documents\ScrapperProject\ScrapperProject\Scrapper\anim_other_darwin_bots_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\tswal\Documents\ScrapperProject\ScrapperProject\Scrapper\anim_other_darwin_bots_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\tswal\Documents\ScrapperProject\ScrapperProject\Scrapper\anim_other_darwin_bots_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\tswal\Documents\ScrapperProject\ScrapperProject\Scrapper\anim_other_darwin_bots_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+Platform assembly: C:\Users\tswal\Documents\ScrapperProject\ScrapperProject\Scrapper\anim_other_darwin_bots_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\tswal\Documents\ScrapperProject\ScrapperProject\Scrapper\anim_other_darwin_bots_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.807417 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 13d0 -> priority: 1 
+Not riveted
+0x01762A2B (anim_other_darwin_bots) 
+0x0176415B (anim_other_darwin_bots) 
+0x0165660B (anim_other_darwin_bots) 
+0x01358A5A (anim_other_darwin_bots) 
+0x01358D8A (anim_other_darwin_bots) 
+0x0160BB2C (anim_other_darwin_bots) 
+0x074DAE9D (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,string,UnityEngine.Object)
+0x074DAE3E (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x074DAD01 (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x074DABC1 (Mono JIT Code) UnityEngine.Debug:Log (object)
+0x074DAB99 (Mono JIT Code) UnityEngine.MonoBehaviour:print (object)
+0x074D9BC2 (Mono JIT Code) Projectile:AttachRivet (UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.GameObject)
+0x074C8836 (Mono JIT Code) PlayerScript:Update ()
+0x074A93C9 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x100F18F9 (mono) mono_set_defaults
+0x1005D868 (mono) mono_runtime_invoke
+0x014A70D0 (anim_other_darwin_bots) 
+0x014A3B42 (anim_other_darwin_bots) 
+0x0164CA0E (anim_other_darwin_bots) 
+0x0164EC61 (anim_other_darwin_bots) 
+0x0164EC77 (anim_other_darwin_bots) 
+0x0137CC51 (anim_other_darwin_bots) 
+0x00FC736A (anim_other_darwin_bots) 
+0x0179C048 (anim_other_darwin_bots) 
+0x017D9CC4 (anim_other_darwin_bots) 
+0x77308654 (KERNEL32) BaseThreadInitThunk
+0x77424A77 (ntdll) RtlGetAppContainerNamedObjectPath
+0x77424A47 (ntdll) RtlGetAppContainerNamedObjectPath
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player Connected: True
+0x01762A2B (anim_other_darwin_bots) 
+0x0176415B (anim_other_darwin_bots) 
+0x0165660B (anim_other_darwin_bots) 
+0x01358A5A (anim_other_darwin_bots) 
+0x01358D8A (anim_other_darwin_bots) 
+0x0160BB2C (anim_other_darwin_bots) 
+0x074DAE9D (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,string,UnityEngine.Object)
+0x074DAE3E (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x074DAD01 (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x074DABC1 (Mono JIT Code) UnityEngine.Debug:Log (object)
+0x074DAB99 (Mono JIT Code) UnityEngine.MonoBehaviour:print (object)
+0x074DA128 (Mono JIT Code) Projectile:AttachRivet (UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.GameObject)
+0x074C8836 (Mono JIT Code) PlayerScript:Update ()
+0x074A93C9 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x100F18F9 (mono) mono_set_defaults
+0x1005D868 (mono) mono_runtime_invoke
+0x014A70D0 (anim_other_darwin_bots) 
+0x014A3B42 (anim_other_darwin_bots) 
+0x0164CA0E (anim_other_darwin_bots) 
+0x0164EC61 (anim_other_darwin_bots) 
+0x0164EC77 (anim_other_darwin_bots) 
+0x0137CC51 (anim_other_darwin_bots) 
+0x00FC736A (anim_other_darwin_bots) 
+0x0179C048 (anim_other_darwin_bots) 
+0x017D9CC4 (anim_other_darwin_bots) 
+0x77308654 (KERNEL32) BaseThreadInitThunk
+0x77424A77 (ntdll) RtlGetAppContainerNamedObjectPath
+0x77424A47 (ntdll) RtlGetAppContainerNamedObjectPath
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+neck (UnityEngine.GameObject)
+0x01762A2B (anim_other_darwin_bots) 
+0x0176415B (anim_other_darwin_bots) 
+0x0165660B (anim_other_darwin_bots) 
+0x01358A5A (anim_other_darwin_bots) 
+0x01358D8A (anim_other_darwin_bots) 
+0x0160BB2C (anim_other_darwin_bots) 
+0x074DAE9D (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,string,UnityEngine.Object)
+0x074DAE3E (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x074DAD01 (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x074DABC1 (Mono JIT Code) UnityEngine.Debug:Log (object)
+0x074DAB99 (Mono JIT Code) UnityEngine.MonoBehaviour:print (object)
+0x074DAA00 (Mono JIT Code) Projectile:AttachRivet (UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.GameObject)
+0x074C8836 (Mono JIT Code) PlayerScript:Update ()
+0x074A93C9 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x100F18F9 (mono) mono_set_defaults
+0x1005D868 (mono) mono_runtime_invoke
+0x014A70D0 (anim_other_darwin_bots) 
+0x014A3B42 (anim_other_darwin_bots) 
+0x0164CA0E (anim_other_darwin_bots) 
+0x0164EC61 (anim_other_darwin_bots) 
+0x0164EC77 (anim_other_darwin_bots) 
+0x0137CC51 (anim_other_darwin_bots) 
+0x00FC736A (anim_other_darwin_bots) 
+0x0179C048 (anim_other_darwin_bots) 
+0x017D9CC4 (anim_other_darwin_bots) 
+0x77308654 (KERNEL32) BaseThreadInitThunk
+0x77424A77 (ntdll) RtlGetAppContainerNamedObjectPath
+0x77424A47 (ntdll) RtlGetAppContainerNamedObjectPath
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Not riveted
+0x01762A2B (anim_other_darwin_bots) 
+0x0176415B (anim_other_darwin_bots) 
+0x0165660B (anim_other_darwin_bots) 
+0x01358A5A (anim_other_darwin_bots) 
+0x01358D8A (anim_other_darwin_bots) 
+0x0160BB2C (anim_other_darwin_bots) 
+0x074DAE9D (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,string,UnityEngine.Object)
+0x074DAE3E (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x074DAD01 (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x074DABC1 (Mono JIT Code) UnityEngine.Debug:Log (object)
+0x074DAB99 (Mono JIT Code) UnityEngine.MonoBehaviour:print (object)
+0x074D9BC2 (Mono JIT Code) Projectile:AttachRivet (UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.GameObject)
+0x074C8836 (Mono JIT Code) PlayerScript:Update ()
+0x074A93C9 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x100F18F9 (mono) mono_set_defaults
+0x1005D868 (mono) mono_runtime_invoke
+0x014A70D0 (anim_other_darwin_bots) 
+0x014A3B42 (anim_other_darwin_bots) 
+0x0164CA0E (anim_other_darwin_bots) 
+0x0164EC61 (anim_other_darwin_bots) 
+0x0164EC77 (anim_other_darwin_bots) 
+0x0137CC51 (anim_other_darwin_bots) 
+0x00FC736A (anim_other_darwin_bots) 
+0x0179C048 (anim_other_darwin_bots) 
+0x017D9CC4 (anim_other_darwin_bots) 
+0x77308654 (KERNEL32) BaseThreadInitThunk
+0x77424A77 (ntdll) RtlGetAppContainerNamedObjectPath
+0x77424A47 (ntdll) RtlGetAppContainerNamedObjectPath
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Plane (5) (UnityEngine.GameObject)
+0x01762A2B (anim_other_darwin_bots) 
+0x0176415B (anim_other_darwin_bots) 
+0x0165660B (anim_other_darwin_bots) 
+0x01358A5A (anim_other_darwin_bots) 
+0x01358D8A (anim_other_darwin_bots) 
+0x0160BB2C (anim_other_darwin_bots) 
+0x074DAE9D (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,string,UnityEngine.Object)
+0x074DAE3E (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x074DAD01 (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x074DABC1 (Mono JIT Code) UnityEngine.Debug:Log (object)
+0x074DAB99 (Mono JIT Code) UnityEngine.MonoBehaviour:print (object)
+0x074DA9B0 (Mono JIT Code) Projectile:AttachRivet (UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.GameObject)
+0x074C8836 (Mono JIT Code) PlayerScript:Update ()
+0x074A93C9 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x100F18F9 (mono) mono_set_defaults
+0x1005D868 (mono) mono_runtime_invoke
+0x014A70D0 (anim_other_darwin_bots) 
+0x014A3B42 (anim_other_darwin_bots) 
+0x0164CA0E (anim_other_darwin_bots) 
+0x0164EC61 (anim_other_darwin_bots) 
+0x0164EC77 (anim_other_darwin_bots) 
+0x0137CC51 (anim_other_darwin_bots) 
+0x00FC736A (anim_other_darwin_bots) 
+0x0179C048 (anim_other_darwin_bots) 
+0x017D9CC4 (anim_other_darwin_bots) 
+0x77308654 (KERNEL32) BaseThreadInitThunk
+0x77424A77 (ntdll) RtlGetAppContainerNamedObjectPath
+0x77424A47 (ntdll) RtlGetAppContainerNamedObjectPath
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Plane (5) (UnityEngine.GameObject)
+0x01762A2B (anim_other_darwin_bots) 
+0x0176415B (anim_other_darwin_bots) 
+0x0165660B (anim_other_darwin_bots) 
+0x01358A5A (anim_other_darwin_bots) 
+0x01358D8A (anim_other_darwin_bots) 
+0x0160BB2C (anim_other_darwin_bots) 
+0x074DAE9D (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,string,UnityEngine.Object)
+0x074DAE3E (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x074DAD01 (Mono JIT Code) UnityEngine.Logger:Log (UnityEngine.LogType,object)
+0x074DABC1 (Mono JIT Code) UnityEngine.Debug:Log (object)
+0x074DAB99 (Mono JIT Code) UnityEngine.MonoBehaviour:print (object)
+0x074DAA00 (Mono JIT Code) Projectile:AttachRivet (UnityEngine.GameObject,UnityEngine.Vector3,UnityEngine.Vector3,UnityEngine.GameObject)
+0x074C8836 (Mono JIT Code) PlayerScript:Update ()
+0x074A93C9 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x100F18F9 (mono) mono_set_defaults
+0x1005D868 (mono) mono_runtime_invoke
+0x014A70D0 (anim_other_darwin_bots) 
+0x014A3B42 (anim_other_darwin_bots) 
+0x0164CA0E (anim_other_darwin_bots) 
+0x0164EC61 (anim_other_darwin_bots) 
+0x0164EC77 (anim_other_darwin_bots) 
+0x0137CC51 (anim_other_darwin_bots) 
+0x00FC736A (anim_other_darwin_bots) 
+0x0179C048 (anim_other_darwin_bots) 
+0x017D9CC4 (anim_other_darwin_bots) 
+0x77308654 (KERNEL32) BaseThreadInitThunk
+0x77424A77 (ntdll) RtlGetAppContainerNamedObjectPath
+0x77424A47 (ntdll) RtlGetAppContainerNamedObjectPath
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
